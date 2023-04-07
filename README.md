@@ -1,4 +1,4 @@
-# Hi, I'm [Jin!](https://github.com/kpstar) <img src="https://github.com/kpstar/kpstar/blob/main/imgs/waving-hand-joypixels.gif" width="30px">
+# Hi, I'm [CROWN!](https://github.com/kpstar) <img src="https://github.com/kpstar/kpstar/blob/main/imgs/waving-hand-joypixels.gif" width="30px">
 <br><br>
 <a href="https://github.com/it-education-md">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
