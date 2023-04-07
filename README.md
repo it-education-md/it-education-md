@@ -14,7 +14,7 @@
 ```javascript
 const French = {
   pronouns: "He" | "Him",
-  Experience: "8 Years",
+  Experience: "9 Years",
   Main Stack : [
 	"Frontend": "React, Vue, CI",
 	"Mobile": "React Native, Kotlin, Swift, Flutter",
