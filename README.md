@@ -16,12 +16,14 @@ const French = {
   pronouns: "He" | "Him",
   Experience: "9 Years",
   Main Stack : [
-	"Frontend": "React, Vue, CI",
-	"Mobile": "React Native, Kotlin, Swift, Flutter",
-	"Backend": "Express, Laravel, Ruby, Java spring, Python",
-	"Tool": "Visual Studio(&Code), Android Studio, Xcode, Git",
-	"OS": "MacOS, Ubuntu, Windows, CentOS",
-	"Communication": "Discord, Slack, Skype, Telegram, Zoom"
+	"Languages": "HTML, CSS, SQL, PHP, Python, Perl, JavaScript, ECMAScript (ES6), Ruby, HTML5, CSS3, GraphQL",
+	"Frameworks": "Bootstrap, Django, Ruby on Rails(RoR), Angular, Lumen, Redux, Laravel, Next.js, Express.js, CodeIgniter, Yii, Symfony, jQWidgets, Nuxt.js",
+	"Libraries/APIs": "php-ews, PHPExcel, PHPMailer, Vue, jQuery, React, REST APIs, Node.js, Highcharts, Vue3, Vuex",
+	"Tools": "Webpack, Redux Thunk, Jira, Sublime Text, Git, Subversion(SVN), TweenLite, Html2canvas",
+	"Paradigms": "Agile, Scrum, Object-oriented Programming(OOP), Class-based OOP, Functional Programming, Prototype-based OOP, Agile Software Development, Sanity Testing",
+	"Platforms": "Amazon EC2, MacOS, Ubuntu, Firebase, Amazon Web Services(AWS), Blockchain, Docker",
+  "Storage": "Redis, Amazon S3(AWS S3), PostgreSQL, MongoDB, MySQL, Amazon DynamoDB",
+  "Other": "Freelancing, Ajax, Single-page Applications(SPA), Digital, Google Ads, Vue-router, Email Delivery"
   ],
   
   quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron"
