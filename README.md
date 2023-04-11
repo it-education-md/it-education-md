@@ -3,7 +3,7 @@
 <a href="https://github.com/it-education-md">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="mailto:iteducation.md@gmail.com">
+<a href="mailto:mditeducation@gmail.com">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <br><br>
